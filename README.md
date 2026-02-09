@@ -1,2 +1,2 @@
 # MATLAB-Signal-Processing-Analysis
-Discrete-Time-Signal-Systems
+Computational analysis of continuous and discrete-time signals. Includes spectral analysis, filter design, and system response simulation utilizing MATLAB toolkits.
